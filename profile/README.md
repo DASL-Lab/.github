@@ -6,6 +6,7 @@ Current projects:
   - Estimation of the proportions using GLM and ML methods
   - Estimation of the *variants* using unsupervised/clustering methods
   - Analysis of residuals for reconstructions of wastewater mutations data
+  - Determination of the "correct" number of wastewater sampling sites
 - Habitat utililization using DBSCAN
   - Modifications to the algorithm based on the structure of the data
 - Sports analytics projects TBD
